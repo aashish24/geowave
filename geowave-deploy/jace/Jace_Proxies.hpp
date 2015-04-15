@@ -52,6 +52,7 @@
 #include "jace/proxy/org/opengis/feature/type/AttributeDescriptor.h"
 #include "jace/proxy/org/opengis/feature/type/AttributeType.h"
 #include "jace/proxy/org/opengis/feature/type/GeometryDescriptor.h"
+#include "jace/proxy/org/opengis/feature/type/GeometryType.h"
 #include "jace/proxy/org/opengis/feature/type/Name.h"
 #include "jace/proxy/org/opengis/filter/Filter.h"
 
