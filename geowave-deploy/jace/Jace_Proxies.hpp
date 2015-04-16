@@ -64,6 +64,7 @@
 #include "jace/proxy/mil/nga/giat/geowave/accumulo/metadata/AccumuloDataStatisticsStore.h"
 #include "jace/proxy/mil/nga/giat/geowave/index/ByteArrayId.h"
 #include "jace/proxy/mil/nga/giat/geowave/store/CloseableIterator.h"
+#include "jace/proxy/mil/nga/giat/geowave/store/GeometryUtils.h"
 #include "jace/proxy/mil/nga/giat/geowave/store/adapter/DataAdapter.h"
 #include "jace/proxy/mil/nga/giat/geowave/store/adapter/WritableDataAdapter.h"
 #include "jace/proxy/mil/nga/giat/geowave/store/adapter/statistics/BoundingBoxDataStatistics.h"
