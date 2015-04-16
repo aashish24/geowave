@@ -39,6 +39,7 @@
 #include "jace/proxy/com/vividsolutions/jts/geom/Coordinate.h"
 #include "jace/proxy/com/vividsolutions/jts/geom/Envelope.h"
 #include "jace/proxy/com/vividsolutions/jts/geom/Geometry.h"
+#include "jace/proxy/com/vividsolutions/jts/geom/GeometryCollection.h"
 #include "jace/proxy/com/vividsolutions/jts/geom/GeometryFactory.h"
 #include "jace/proxy/com/vividsolutions/jts/geom/LineString.h"
 #include "jace/proxy/com/vividsolutions/jts/geom/MultiLineString.h"
